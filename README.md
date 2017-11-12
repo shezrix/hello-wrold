@@ -1,2 +1,2 @@
 # hello-wrold
-just practicing github
+I am very enthusiastic to start adding code to github :) 
